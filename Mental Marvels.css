@@ -1,8 +1,8 @@
 body {
-    background-image: url(./Resources/Background\ image.jpeg);
+    background-image: url(./Resources/Background\ Image.jpg);
     opacity: 0.8;
     font-family: Arial, Helvetica, sans-serif;
-    color: whitesmoke;
+    color: darkgoldenrod;
 }
 
 .logo {
@@ -13,10 +13,11 @@ body {
 
 .nav {
    text-align: end;
-   height: 70px;
-   border-bottom: 1px solid blanchedalmond;
+   height: 80px;
+   border-bottom: 1px solid darkblue;
    float: right;
    width: 100%;
-   color: beige;
+   color: burlywood;
+   margin: auto;
 
 }
