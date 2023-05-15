@@ -21,3 +21,29 @@ body {
    margin: auto;
 
 }
+
+.login {
+    width: 360px;
+    height: 720px;
+    margin: auto;
+    background-color: white;
+    border-radius: 5px;
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    width: 300px;
+    margin-left: 20px;
+}
+
+form label {
+    display: flex;
+    margin-top: 20px;
+}
+
+form input {
+    width: 100%;
+}
