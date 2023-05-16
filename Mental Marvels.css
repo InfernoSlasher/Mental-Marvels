@@ -46,4 +46,19 @@ form label {
 
 form input {
     width: 100%;
+    padding: 7px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+}
+
+input[type="button"] {
+    width: 360px;
+    height: 40px;
+    margin-top: 20px;
+    border: none;
+    background-color: lightgreen;
+    color: black;
+    font-size: 20px;
 }
