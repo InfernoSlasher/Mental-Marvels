@@ -26,7 +26,7 @@ body {
     width: 360px;
     height: 720px;
     margin: auto;
-    background-color: white;
+    background-color: lightcyan;
     border-radius: 5px;
 }
 
@@ -35,7 +35,7 @@ h2 {
 }
 
 form {
-    width: 300px;
+    width: 400px;
     margin-left: 20px;
 }
 
@@ -58,7 +58,7 @@ input[type="button"] {
     height: 40px;
     margin-top: 20px;
     border: none;
-    background-color: lightgreen;
+    background-color: #49c1a2;
     color: black;
     font-size: 20px;
 }
